@@ -1,7 +1,3 @@
-// //Creates a new RangeError object.
-// new RangeError()
-// new RangeError(message)
-
 
 
 function check(n) {

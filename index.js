@@ -1,6 +1,6 @@
 //const err1 = require('./errors/eval');
-const err2 = require('./errors/range');
-// const err3 = require('./errors/reference');
+//const err2 = require('./errors/range');
+//const err3 = require('./errors/reference');
 // const err4 = require('./errors/syntax');
 // const err5 = require('./errors/type');
 //const err6 = require('./errors/uri');
@@ -9,9 +9,9 @@ const err2 = require('./errors/range');
 
 //err1.EvalError();
 
-err2.check();
+//err2.check();
 
-// err3.ReferenceError();
+//err3.ReferenceError();
 
 // err4.SyntaxError();
 
@@ -19,6 +19,6 @@ err2.check();
 
 //err6.URIError();
 
-//err7.AggregateError();
+err7.AggregateError();
 
 //err8.InternalError();
